@@ -16,6 +16,6 @@
 @property (strong,nonatomic) Fraction *accumulator;
 
 -(Fraction *) performOperation : (char) op;
--(void) clear;
+-(void) clear; 
 
 @end
